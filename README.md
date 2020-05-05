@@ -1,0 +1,2 @@
+# WebSiteBlocker
+Powershell to blockwebsites
